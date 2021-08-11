@@ -1,7 +1,7 @@
 {
-  "datasets": "/xdisk/ericlyons/data/ariyanzarei/IMERGE-Project/datasets",
-  "models": "/xdisk/ericlyons/data/ariyanzarei/IMERGE-Project/models",
-  "results": "/xdisk/ericlyons/data/ariyanzarei/IMERGE-Project/results",
-  "settings": "/xdisk/ericlyons/data/ariyanzarei/IMERGE-Project/settings",
-  "plots": "/xdisk/ericlyons/data/ariyanzarei/IMERGE-Project/plots"
+  "datasets": "/xdisk/data/IMERGE-Project/datasets",
+  "models": "/xdisk/data/IMERGE-Project/models",
+  "results": "/xdisk/data/IMERGE-Project/results",
+  "settings": "/xdisk/data/IMERGE-Project/settings",
+  "plots": "/xdisk/data/IMERGE-Project/plots"
 }
