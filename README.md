@@ -4,4 +4,4 @@ This repository contains codes to our proposed Nowcasting-Nets models in the **N
 
 # Dataset
 
-The clean and preprocessed dataset is available [here](https://drive.google.com/drive/folders/1aBSx4s7GegvtHOpkCerArvavYuSokfm7?usp=sharing) in a h5 file. 
+The clean and preprocessed dataset is available [here](https://data.cyverse.org/dav-anon/iplant/home/ariyanzarei/complete_final_dataset_IMERG_Nov_05.h5) in a h5 file. 
